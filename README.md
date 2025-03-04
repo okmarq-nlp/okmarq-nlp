@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @okmarq-nlp
-- 👀 I’m interested in building solutions that solve real-world problems I'm exploring how the blockchian and AI can change the world
-- 🌱 I’m currently exploring the blockchian architecture and LLM for AI-driven solutions
-- 💞️ I’m looking to collaborate on solutions that solve real-world problems
-- 📫 You can reach me via email okmarq@gmail.com
+## Hi there 👋
+### Okoromi Joel with you 👋
+- 👋 I’m a Senior Software Developer at Nigerian Law Publications
+- 👀 I’m interested in building solutions that solve real-world problems and exploring how the blockchain and AI can change the world
+- 🔭 I’m currently exploring the blockchain architecture and LLM for AI-driven solutions
+- 🌱 I’m currently learning better ways to implement these into a project
+- 👯 I’m looking to collaborate on solutions that solve real-world problems
+- 💬 Ask me about anything relating to software architecture, solutions architecture
+- 📫 You can reach me via email at okmarq@gmail.com
+- 📫 Via LinkedIn at https://www.linkedin.com/in/okmarq/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I built a blockchain architecture myself which I'm looking to add more features and deploy soon.
-
-<!---
-okmarq-nlp/okmarq-nlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I built a blockchain architecture. I want to add more features and deploy my solutions soon.
